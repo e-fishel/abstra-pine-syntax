@@ -1,0 +1,19 @@
+{
+  "name": "abstra-pine-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Abstra pine atom syntax",
+  "keywords": [
+    "syntax",
+    "theme",
+		"abstract",
+		"pine",
+		"abstrapine",
+		"abstra pine"
+  ],
+  "repository": "https://github.com/atom/abstra-pine-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
